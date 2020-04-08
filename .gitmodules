@@ -1,0 +1,9 @@
+[submodule "ncnn"]
+	path = ncnn
+	url = https://github.com/Tencent/ncnn.git
+[submodule "MNN"]
+	path = MNN
+	url = https://github.com/alibaba/MNN.git
+[submodule "Tengine"]
+	path = Tengine
+	url = https://github.com/OAID/Tengine.git
